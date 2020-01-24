@@ -10,7 +10,7 @@ setup(name='aiocmd',
       keywords=['asyncio', 'cmd'],
       license='MIT',
       install_requires=[
-          'prompt_toolkit>=2.0.9'
+          'prompt_toolkit>=2.0.9,<3'
       ],
       classifiers=[
           'License :: OSI Approved :: MIT License',
